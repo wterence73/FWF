@@ -1,0 +1,92 @@
+/** Css Beginning **/
+
+body{
+		background: url("../images/bag.png") no-repeat;
+		background-position: center;
+		margin-top: 270px;
+		background-size: 1200px 1100px;
+		height: 450px;
+		font-size: 17px;
+}
+
+h1{
+		background: url("../images/5K-NaturalGrocers.png")no-repeat;
+		background-size: 400px 90px;
+		text-indent: -9999px;
+		padding: 30px;
+		margin-top: -180px;
+		margin-left: 530px;
+}
+
+form input{
+		margin-left: 530px;
+		width: 400px;
+		height: 25px;
+		border-radius: 3px;
+		background: #fee497;
+}
+
+form button{
+		height: 30px;
+		width: 100px;
+		text-align: center;
+		background: #14a44a;
+		color: #fff;
+		font-size: 17px;
+}
+
+h4{
+		margin-left: 530px;
+		font-size: 21px;
+		font-weight: bold;
+		color: #000;
+}
+
+p{
+		margin-left: 530px;
+		color: #4e0c18;
+  		font-weight: bold;
+  		font-size: 21px;
+  		text-transform: uppercase;
+}
+
+table{
+		margin-left: 530px;
+		position: absolute;
+  		z-index: 1;
+  		color: #4e0c18;
+  		text-align: center;
+  		font-weight: bold;
+}
+
+ol{
+		margin-left: 830px;
+		margin-top: 27px;
+		list-style-type: none;
+}
+
+li{
+		padding-bottom: 5px;
+		border-bottom: 2px solid #14a44a;
+		width: 150px;
+		position: relative; 
+  		z-index: -1;
+  		color: #cb3939;
+  		font-weight: bold;
+  		font-family: roboto, sans serif;
+  		text-align: center;
+	}
+
+td:first-child{
+		padding-bottom: 5px;
+		border-bottom: 2px solid #14a44a;
+		width: 150px;
+}
+
+table button{
+		width: 50px;
+		height: 25px;
+		border-radius: 5px;
+		border: 2px solid #14a44a;
+		background: #cb3939;
+}
